@@ -1,0 +1,118 @@
+# Translation of Plugins - Dynamic Conditions - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Dynamic Conditions - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-08 09:41:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Dynamic Conditions - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://www.rto.de"
+msgstr "https://www.rto.de"
+
+#. Author of the plugin
+msgid "RTO GmbH"
+msgstr "RTO GmbH"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/RTO-Websites/dynamic-conditions"
+msgstr "https://github.com/RTO-Websites/dynamic-conditions"
+
+#: Admin/DynamicConditionsAdmin.php:187
+msgid "Show when condition met"
+msgstr "Mostrar quando a condição se encontrou"
+
+#: Admin/DynamicConditionsAdmin.php:176
+msgid "Select condition field"
+msgstr "Selecione campo da condição"
+
+#: Admin/DynamicConditionsAdmin.php:162
+msgid "Dynamic Conditions"
+msgstr "Condições dinâmicas"
+
+#: Admin/DynamicConditionsAdmin.php:169
+msgid "Dynamic Tag"
+msgstr "Tag dinâmica"
+
+#: Admin/DynamicConditionsAdmin.php:183
+msgid "Show/Hide"
+msgstr "Mostrar/ocultar"
+
+#: Admin/DynamicConditionsAdmin.php:88
+msgid "Elementor not installed."
+msgstr "Elementor não instalado."
+
+#: Admin/DynamicConditionsAdmin.php:86
+msgid "Elementor Pro not installed."
+msgstr "Elementor Pro não instalado."
+
+#: Admin/DynamicConditionsAdmin.php:84
+msgid "Elementor and Elementor Pro not installed."
+msgstr "Elementor e Elementor Pro não instalados."
+
+#: Admin/DynamicConditionsAdmin.php:198
+msgid "Condition"
+msgstr "Condição"
+
+#: Admin/DynamicConditionsAdmin.php:207
+msgid "Is empty"
+msgstr "Está vazia"
+
+#: Admin/DynamicConditionsAdmin.php:208
+msgid "Is not empty"
+msgstr "Não está vazio"
+
+#: Admin/DynamicConditionsAdmin.php:210
+msgid "Less than"
+msgstr "Menos que"
+
+#: Admin/DynamicConditionsAdmin.php:211
+msgid "Greater than"
+msgstr "Maior que"
+
+#: Admin/DynamicConditionsAdmin.php:249 Admin/DynamicConditionsAdmin.php:268
+#: Admin/DynamicConditionsAdmin.php:288 Admin/DynamicConditionsAdmin.php:303
+#: Admin/DynamicConditionsAdmin.php:317 Admin/DynamicConditionsAdmin.php:332
+#: Admin/DynamicConditionsAdmin.php:347 Admin/DynamicConditionsAdmin.php:362
+#: Admin/DynamicConditionsAdmin.php:378 Admin/DynamicConditionsAdmin.php:393
+#: Admin/DynamicConditionsAdmin.php:409 Admin/DynamicConditionsAdmin.php:423
+#: Admin/DynamicConditionsAdmin.php:439
+msgid "Conditional value"
+msgstr "Valor condicional"
+
+#. Plugin Name of the plugin
+msgid "DynamicConditions"
+msgstr "DynamicConditions"
+
+#. Description of the plugin
+msgid "Activates conditions for dynamic tags to show/hides a widget."
+msgstr "Ativar condições para tags dinâmicas para mostrar/ocultar um widget."
+
+#: Admin/DynamicConditionsAdmin.php:215
+msgid "Select your condition for this widget visibility."
+msgstr "Selecione sua condição para esta visibilidade do widget."
+
+#: Admin/DynamicConditionsAdmin.php:206
+msgid "Does not contain"
+msgstr "Não contém"
+
+#: Admin/DynamicConditionsAdmin.php:205
+msgid "Contains"
+msgstr "Contém"
+
+#: Admin/DynamicConditionsAdmin.php:204
+msgid "Is not equal to"
+msgstr "Não é igual a"
+
+#: Admin/DynamicConditionsAdmin.php:203
+msgid "Is equal to"
+msgstr "É igual a"
+
+#: Admin/DynamicConditionsAdmin.php:188
+msgid "Hide when condition met"
+msgstr "Ocultar quando condição encontrou"
